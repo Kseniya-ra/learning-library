@@ -44,7 +44,6 @@ filepath.parent.mkdir(parents=True, exist_ok=True)
 content = f"""---
 title: {title}
 type: {resource_type}
-date_added: {date.today()}
 ---
 
 # {title}
@@ -53,8 +52,13 @@ date_added: {date.today()}
 
 {url}
 
+## Why I saved it
+
+
 ## Notes
 
+
+## Related resources
 
 """
 
