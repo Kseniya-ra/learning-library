@@ -39,7 +39,6 @@
   "dependencies": {
     "@clack/prompts": "^0.11.0",
     "@floating-ui/dom": "^1.7.4",
-    "@myriaddreamin/rehype-typst": "^0.6.0",
     "@napi-rs/simple-git": "0.1.22",
     "@quartz-community/alias-redirects": "^0.1.0",
     "@quartz-community/article-title": "^0.1.0",
@@ -67,7 +66,6 @@
     "@quartz-community/github-flavored-markdown": "^0.1.0",
     "@quartz-community/graph": "^0.1.0",
     "@quartz-community/hard-line-breaks": "^0.1.0",
-    "@quartz-community/latex": "^0.1.0",
     "@quartz-community/note-properties": "^0.1.0",
     "@quartz-community/obsidian-flavored-markdown": "^0.1.1",
     "@quartz-community/og-image": "^0.1.1",
