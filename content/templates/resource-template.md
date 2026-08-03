@@ -1,27 +1,38 @@
 ---
-title: Resource Title
+title:
+type:
+authors:
+year:
+status: Not Started
+priority:
+tags:
 ---
 
-# Resource Title
+# Title
 
-**Type:** 📚 Book / 🎓 Course / 🎥 Video / 📄 Paper / 💻 Tutorial
 
-**Status:** ☐ To Start
+## Link
 
-**Priority:** ⭐⭐⭐☆☆
 
-**Topics:**
-- 
+## Type
 
-**Link:**
-
-## Why I saved it
+## Why I saved this
 
 
 ## Key ideas
 
 
 ## Notes
+
+
+## Progress
+
+- [ ] Read / Watch
+- [ ] Take notes
+- [ ] Apply concepts
+
+
+## Code / Data / Replication
 
 
 ## Related resources

@@ -15,7 +15,7 @@ A personal collection of books, papers, courses, videos, tutorials, and research
 - [💻 Tutorials & Documentation](tutorials)
 - [🧪 Code & Software](code)
 
-### 📚 Latest Books
+### 📚 Featured Books
 
 - [Introduction to Bayesian Econometrics](books/introduction-bayesian-econometrics)
 
@@ -23,17 +23,12 @@ A personal collection of books, papers, courses, videos, tutorials, and research
 
 - [📊 Econometrics](econometrics)
 - [📈 Statistics](statistics)
+- [🔍 Causal Inference](causal-inference)
+- [🤖 Machine Learning](machine-learning)
+- [🧠 Agentic AI & LLMs](ai-agents)
 - [🏠 Survey Methods](survey-methods)
 - [💰 Poverty & Inequality](poverty)
-- [🤖 Artificial Intelligence](ai)
 - [💻 Programming](programming)
-
-## Learning Status
-
-- ⭐ Favorites
-- 🔥 High Priority
-- 🟡 Currently Learning
-- ☐ To Start
-- ✅ Completed---
+- [🧪 Reproducible Research](reproducibility)
 
 Last updated: August 2026
