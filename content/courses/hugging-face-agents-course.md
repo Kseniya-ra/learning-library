@@ -1,7 +1,6 @@
 ---
 title: Hugging Face Agents Course
 type: Course
-date_added: 2026-08-03
 ---
 
 # Hugging Face Agents Course
@@ -10,6 +9,10 @@ date_added: 2026-08-03
 
 https://huggingface.co/learn/agents-course/en/unit0/introduction
 
+## Why I saved it
+
+A course on building AI agents and working with large language model systems.
+
 ## Notes
 
-
+## Related resources
