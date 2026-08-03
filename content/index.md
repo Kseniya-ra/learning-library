@@ -36,3 +36,4 @@ A personal collection of books, papers, courses, videos, tutorials, and research
 - ☐ To Start
 - ✅ Completed---
 
+Last updated: August 2026
