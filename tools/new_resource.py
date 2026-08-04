@@ -112,8 +112,10 @@ filepath = Path("content") / folder / f"{filename}.md"
 
 filepath.parent.mkdir(parents=True, exist_ok=True)
 
+safe_title = title.replace('"', '\\"')
+
 content = f"""---
-title: {title}
+title: "{safe_title}"
 type: {resource_type}
 ---
 
