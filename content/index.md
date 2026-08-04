@@ -14,10 +14,8 @@ A personal collection of books, papers, courses, videos, tutorials, and research
 - [📄 Papers](papers)
 - [💻 Tutorials & Documentation](tutorials)
 - [🧪 Code & Software](code)
-
-### 📚 Featured Books
-
-- [Introduction to Bayesian Econometrics](books/introduction-bayesian-econometrics)
+- [🗃️ Datasets](datasets)
+- [🌐 Websites](websites)
 
 ## Browse by Topic
 

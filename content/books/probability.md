@@ -1,6 +1,7 @@
 ---
 title: Probability!
 type: Book
+url: \"https://bookdown.org/probability/beta/\"
 ---
 
 # Probability!

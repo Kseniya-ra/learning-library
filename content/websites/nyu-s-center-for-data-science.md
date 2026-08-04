@@ -1,6 +1,7 @@
 ---
 title: NYU’s Center for Data Science
 type: Website
+url: \"https://cds.nyu.edu/open-education/\"
 ---
 
 # NYU’s Center for Data Science

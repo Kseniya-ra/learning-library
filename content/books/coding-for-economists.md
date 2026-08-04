@@ -1,6 +1,7 @@
 ---
 title: Coding for Economists
 type: Book
+url: \"https://aeturrell.github.io/coding-for-economists/\"
 ---
 
 # Coding for Economists

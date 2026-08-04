@@ -1,6 +1,7 @@
 ---
 title: Google Skills
 type: Website
+url: \"https://www.skills.google/\"
 ---
 
 # Google Skills

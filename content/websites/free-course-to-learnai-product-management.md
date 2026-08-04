@@ -1,6 +1,7 @@
 ---
 title: Free Course to LearnAI Product Management
 type: Website
+url: \"https://hellopm.co/free/\"
 ---
 
 # Free Course to LearnAI Product Management

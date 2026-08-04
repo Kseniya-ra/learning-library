@@ -1,6 +1,7 @@
 ---
 title: Python for Data Science
 type: Book
+url: \"https://aeturrell.github.io/python4DS/\"
 ---
 
 # Python for Data Science

@@ -1,6 +1,7 @@
 ---
 title: Claude 101
 type: Course
+url: \"https://anthropic.skilljar.com/claude-101\"
 ---
 
 # Claude 101

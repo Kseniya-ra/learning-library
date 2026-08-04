@@ -1,6 +1,7 @@
 ---
 title: Applied Statistics with R
 type: Book
+url: \"https://book.stat420.org/\"
 ---
 
 # Applied Statistics with R

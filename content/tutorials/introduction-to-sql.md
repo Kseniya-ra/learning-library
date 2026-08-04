@@ -1,6 +1,7 @@
 ---
 title: Introduction to SQL
 type: Tutorial
+url: \"https://sqlbolt.com/\"
 ---
 
 # Introduction to SQL

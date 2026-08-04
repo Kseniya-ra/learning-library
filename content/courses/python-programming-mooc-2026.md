@@ -1,6 +1,7 @@
 ---
 title: Python Programming MOOC 2026
 type: Course
+url: \"https://programming-26.mooc.fi/\"
 ---
 
 # Python Programming MOOC 2026

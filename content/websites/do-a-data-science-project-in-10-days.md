@@ -1,6 +1,7 @@
 ---
 title: Do A Data Science Project in 10 Days
 type: Website
+url: \"https://bookdown.org/gmli64/do_a_data_science_project_in_10_days/\"
 ---
 
 # Do A Data Science Project in 10 Days

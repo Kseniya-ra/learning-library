@@ -1,5 +1,5 @@
 ---
-title: "Mathematics of Data Science"
+title: "[2607.11938] Mathematics of Data Science"
 type: Paper
 url: \"https://arxiv.org/abs/2607.11938\"
 ---

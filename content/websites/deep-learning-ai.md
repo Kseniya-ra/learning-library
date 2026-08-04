@@ -1,6 +1,7 @@
 ---
 title: Deep Learning AI
 type: Website
+url: \"https://www.deeplearning.ai/\"
 ---
 
 # Deep Learning AI

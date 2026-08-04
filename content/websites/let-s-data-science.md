@@ -1,6 +1,7 @@
 ---
 title: Let's Data Science
 type: Website
+url: \"https://letsdatascience.com/\"
 ---
 
 # Let's Data Science

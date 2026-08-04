@@ -1,6 +1,7 @@
 ---
 title: Hugging Face Agents Course
 type: Course
+url: \"https://huggingface.co/learn/agents-course/en/unit0/introduction\"
 ---
 
 # Hugging Face Agents Course

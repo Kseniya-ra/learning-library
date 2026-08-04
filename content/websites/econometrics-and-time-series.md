@@ -1,6 +1,7 @@
 ---
 title: Econometrics and Time Series
 type: Website
+url: \"https://econometricsandtimeseries.com/\"
 ---
 
 # Econometrics and Time Series

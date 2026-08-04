@@ -1,6 +1,7 @@
 ---
 title: Big Data in Finance
 type: Course
+url: \"https://www.whitesphd.com/FinML/\"
 ---
 
 # Big Data in Finance

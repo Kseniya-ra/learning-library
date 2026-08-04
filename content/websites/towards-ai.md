@@ -1,6 +1,7 @@
 ---
 title: Towards AI
 type: Website
+url: \"https://pub.towardsai.net/\"
 ---
 
 # Towards AI

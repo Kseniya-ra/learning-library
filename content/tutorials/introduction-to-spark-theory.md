@@ -1,6 +1,7 @@
 ---
 title: Introduction to Spark Theory
 type: Tutorial
+url: \"https://www.sparkplayground.com/tutorials/spark-theory/introduction-to-spark\"
 ---
 
 # Introduction to Spark Theory

@@ -1,6 +1,7 @@
 ---
 title: Agentic AI
 type: Course
+url: \"https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!\"
 ---
 
 # Agentic AI

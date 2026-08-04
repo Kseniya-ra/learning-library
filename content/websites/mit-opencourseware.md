@@ -1,6 +1,7 @@
 ---
 title: MIT OpenCourseWare
 type: Website
+url: \"https://ocw.mit.edu/\"
 ---
 
 # MIT OpenCourseWare

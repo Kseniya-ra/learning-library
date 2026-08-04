@@ -1,6 +1,7 @@
 ---
 title: Conspicuous Cognition
 type: Website
+url: \"https://www.conspicuouscognition.com/\"
 ---
 
 # Conspicuous Cognition
