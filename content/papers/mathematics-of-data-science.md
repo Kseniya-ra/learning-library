@@ -1,6 +1,6 @@
 ---
-title: [2607.11938] Mathematics of Data Science
-type: Book
+title: "Mathematics of Data Science"
+type: Paper
 ---
 
 # [2607.11938] Mathematics of Data Science
