@@ -2,9 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
 from datetime import date
-from urllib.parse import urlparse
 import re
 from urllib.parse import urlparse, parse_qs
+
+print("\n📚 Learning Library - Add Resource\n")
+
+url = input("URL: ").strip()
 
 def normalize_url(url):
     """Return a canonical version of the URL."""
@@ -31,8 +34,6 @@ def normalize_url(url):
     parsed = urlparse(url)
 
     return f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
-
-url = input("URL: ").strip()
 
 url = normalize_url(url)
 
@@ -100,7 +101,22 @@ def detect_type(url):
     if "dataverse" in url:
         return "d"
 
-    return None
+    if "coursera.org" in url:
+        return "c"
+
+    if "edx.org" in url:
+        return "c"
+
+    if "deeplearning.ai" in url:
+        return "c"
+
+    if "mit.edu" in url or "ocw" in url:
+        return "c"
+
+    if "kaggle.com" in url:
+        return "d"
+
+    return "w"
 
 RESOURCE_TYPES = {
     "b": ("books", "Book"),
@@ -113,9 +129,6 @@ RESOURCE_TYPES = {
     "g": ("code", "Code"),
 }
 
-print("\n📚 Learning Library - Add Resource\n")
-
-url = input("URL: ").strip()
 
 suggested_type = detect_type(url)
 
@@ -147,12 +160,6 @@ if choice not in RESOURCE_TYPES:
 
 folder, resource_type = RESOURCE_TYPES[choice]
 
-if choice not in RESOURCE_TYPES:
-    print("Invalid choice")
-    exit()
-
-folder, resource_type = RESOURCE_TYPES[choice]
-
 found_title = get_title(url)
 
 if found_title:
@@ -168,6 +175,8 @@ else:
         title = urlparse(url).netloc
 
 filename_title = re.sub(r"^\[[^\]]+\]\s*", "", title)
+
+filename_title = filename_title.split("|")[0].strip()
 
 filename = re.sub(
     r"[^a-z0-9]+",
